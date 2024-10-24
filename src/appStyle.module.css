@@ -1,0 +1,11 @@
+.container{
+  margin: 50px;
+ 
+}
+.heading{
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+  font-size: 50px;
+  width: 100%;
+  text-align: center;
+}
